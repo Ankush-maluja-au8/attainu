@@ -1,0 +1,11 @@
+Coding Challenge - Week 2 Day 2
+Deadline: 13-05-2020 on or before 12:15PM
+
+
+Create a HTML table with a border of 5 px and cellpadding of 10 px containing information of 5 pokemons. The columns should be listed as follows
+
+1) S.No 2) Pokemon name 3) Pokemon image 4) Pokemon type (Fire, water, ghost, grass, ground, legendary) 5) More info link. 
+
+The more information link should redirect to the webpage where we can learn more about each pokemon, in a new browser tab. The link should be masked by some content like “More info” or “Click here to learn more”.
+
+Example link for Charmander - https://www.pokemon.com/us/pokedex/charmander
